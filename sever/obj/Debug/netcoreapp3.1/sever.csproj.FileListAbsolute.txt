@@ -1,0 +1,11 @@
+C:\Users\Александр\source\repos\sever\sever\bin\Debug\netcoreapp3.1\sever.exe
+C:\Users\Александр\source\repos\sever\sever\bin\Debug\netcoreapp3.1\sever.deps.json
+C:\Users\Александр\source\repos\sever\sever\bin\Debug\netcoreapp3.1\sever.runtimeconfig.json
+C:\Users\Александр\source\repos\sever\sever\bin\Debug\netcoreapp3.1\sever.runtimeconfig.dev.json
+C:\Users\Александр\source\repos\sever\sever\bin\Debug\netcoreapp3.1\sever.dll
+C:\Users\Александр\source\repos\sever\sever\bin\Debug\netcoreapp3.1\sever.pdb
+C:\Users\Александр\source\repos\sever\sever\obj\Debug\netcoreapp3.1\sever.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\sever\sever\obj\Debug\netcoreapp3.1\sever.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\sever\sever\obj\Debug\netcoreapp3.1\sever.AssemblyInfo.cs
+C:\Users\Александр\source\repos\sever\sever\obj\Debug\netcoreapp3.1\sever.dll
+C:\Users\Александр\source\repos\sever\sever\obj\Debug\netcoreapp3.1\sever.pdb
